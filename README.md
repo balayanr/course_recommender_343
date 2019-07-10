@@ -10,7 +10,7 @@ recommended to them. The app queries the database for users with matching comple
 courses and makes a recommendation. See "Assignment 3.pdf" for the assignment details on functionality and the database schema.
 
 There was some experimental functionality planned with some functions implemented,
-but in the end I decided to focus on fleshing out the core functinoality and abandonned
+but in the end I decided to focus on fleshing out the core functinoality and abandoned
 the extras. Some code is still present, but commented out.
 
 Run main.py to use the app or use testing.py to have the app run with a pre-set user straight to recommendation.
